@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.active {
+
+    border-bottom: 4px solid green;
+    border-radius: 5px;
+}
